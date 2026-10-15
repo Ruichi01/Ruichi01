@@ -3,7 +3,7 @@
 # I'm Ruichi01
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Web+Applications;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Web+Applications;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
 
 </div>
 
